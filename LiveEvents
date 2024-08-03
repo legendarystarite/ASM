@@ -1,0 +1,39 @@
+{
+    "Luck": {
+        "Active": true,
+        "Multip": 2,
+        "UseBoost": false,
+        "Boost": 45
+    },
+    "Strength": {
+        "Active": false,
+        "Multip": 2,
+        "UseBoost": false,
+        "Boost": 0
+    },
+    "Trophies": {
+        "Active": false,
+        "Multip": 2,
+        "UseBoost": false,
+        "Boost": 0
+    },
+    "Damage": {
+        "Active": false,
+        "Multip": 1.5,
+        "UseBoost": false,
+        "Boost": 0
+    },
+    "EventCurrency": {
+        "Active": false,
+        "EmojiCode": "[Event Currency]",
+        "Multip": 2,
+        "UseBoost": false,
+        "Boost": 0
+    },
+    "Discount": {
+        "Active": false,
+        "Multip": 2,
+        "UseBoost": false,
+        "Boost": 0
+    }
+}
